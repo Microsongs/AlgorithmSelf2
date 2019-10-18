@@ -5,4 +5,14 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="InputOutput\Baekjoon_10953.cs" />
+    <Compile Remove="InputOutput\Baekjoon_2442.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="InputOutput\Baekjoon_10953.cs" />
+    <None Include="InputOutput\Baekjoon_2442.cs" />
+  </ItemGroup>
+
 </Project>
