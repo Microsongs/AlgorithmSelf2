@@ -15,6 +15,8 @@
     <Compile Remove="InputOutput\Baekjoon_2446.cs" />
     <Compile Remove="InputOutput\Baekjoon_2448.cs" />
     <Compile Remove="InputOutput\Baekjoon_2522.cs" />
+    <Compile Remove="STL\Baekjoon_11816.cs" />
+    <Compile Remove="STL\Baekjoon_2555.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -30,6 +32,8 @@
     <None Include="InputOutput\Baekjoon_2446.cs" />
     <None Include="InputOutput\Baekjoon_2448.cs" />
     <None Include="InputOutput\Baekjoon_2522.cs" />
+    <None Include="STL\Baekjoon_11816.cs" />
+    <None Include="STL\Baekjoon_2555.cs" />
   </ItemGroup>
 
 </Project>
