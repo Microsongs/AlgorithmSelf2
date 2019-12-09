@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="InputOutput\baekjoon_1076.cs" />
+    <Compile Remove="InputOutput\Baekjoon_10815.cs" />
+    <Compile Remove="InputOutput\Baekjoon_10816.cs" />
     <Compile Remove="InputOutput\Baekjoon_10953.cs" />
     <Compile Remove="InputOutput\Baekjoon_10991.cs" />
     <Compile Remove="InputOutput\Baekjoon_10992.cs" />
@@ -26,6 +29,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="InputOutput\baekjoon_1076.cs" />
+    <None Include="InputOutput\Baekjoon_10815.cs" />
+    <None Include="InputOutput\Baekjoon_10816.cs" />
     <None Include="InputOutput\Baekjoon_10991.cs" />
     <None Include="InputOutput\Baekjoon_10992.cs" />
     <None Include="InputOutput\Baekjoon_2443.cs" />
